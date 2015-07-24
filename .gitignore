@@ -8,5 +8,8 @@
 build/
 dist/
 
+# This package's output
+installed_files.txt
+
 # Emacs files
 *~

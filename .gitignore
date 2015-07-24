@@ -1,3 +1,9 @@
+# Compiled objects
 *.o
+
+# Python-specific
 *.pyc
 *egg-info
+
+# Emacs files
+*~

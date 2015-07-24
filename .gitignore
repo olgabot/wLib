@@ -1,9 +1,12 @@
 # Compiled objects
 *.o
+*.a
 
 # Python-specific
 *.pyc
 *egg-info
+build/
+dist/
 
 # Emacs files
 *~
